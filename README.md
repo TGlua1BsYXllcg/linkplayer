@@ -1,1 +1,1 @@
-# linkplayer
+# LinkPlayer
