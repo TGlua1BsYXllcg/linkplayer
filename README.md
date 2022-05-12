@@ -17,7 +17,11 @@ bafybeiaymusprc6o5f7qu5vfkflmsu3tunulaqyvwbis3winx2nvdtkleu为该资源在Link�
 ## Android版本
 Android版本是我主要维护的版本, 缺乏UI支持, 还比较简陋.  
 点More resource可以看到当前网络上大家分享出来的资源.  
-https://github.com/TGlua1BsYXllcg/linkplayer/releases/tag/v0.2.15
+
+0.2.16版去除了敏感内容, 同时优化了节点速度:
+https://github.com/TGlua1BsYXllcg/linkplayer/releases/tag/v0.2.16
+
+
 
 ## Windows版本
 Windows版本还处于比较初期, 但至少是一个可用的状态, 后面会继续改进增加例如上传资源、分享资源等功能.  
